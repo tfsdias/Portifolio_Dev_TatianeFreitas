@@ -1,11 +1,15 @@
-# Portifolio_Tatiane
+# ✌️Portfólio_Tatiane
+Sou Tatiane, Desenvolvedora de Software.
+😉Seja bem-vindo(a) ao meu Portfólio
 
- Sou Tatiane, Desenvolvedora de Software
- Seja bem-vindo(a) ao meu Portfólio
+-Objetivo:
+Abordar Resuminho Quem Sou;
+Carreira;
+Estudos;
+Objetivos Profissionais.
 
-#Objetivo:
-Abordar Quem Sou, Carreira, Estudos e Objetivos Profissionais.
-    Inicio
-    Quem Sou Eu
-    Projetos feitos e em andamentos
-    Fale comigo
+Navegação:
+- Inicio
+- Quem Sou Eu
+- Projetos feitos e em andamentos
+- Fale comigo
